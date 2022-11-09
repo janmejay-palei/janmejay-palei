@@ -6,11 +6,11 @@
 
 </head>
 <body>
-<center><h1>Hey , My name is Hritik .</h1></center>
+<center><h1>Hey , My name is Janmejay .</h1></center>
 
 
 
-<a href="https://github.com/Hritik-HP" rel="nofollow">
+<a href="https://github.com/janmejay-palei" rel="nofollow">
 <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" style="max-width:100%;">
 </a>
 <a href="https://www.linkedin.com/in/hritik-phoolwani-854427181/" rel="nofollow">
