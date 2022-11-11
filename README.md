@@ -16,16 +16,10 @@
 <a href="https://www.linkedin.com/in/hritik-phoolwani-854427181/" rel="nofollow">
 <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" style="max-width:100%;">
 </a>
-<a href="https://www.facebook.com/Hp.hacks9" rel="nofollow">
-<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" style="max-width:100%;">
-</a>
-<a href="https://www.instagram.com/_hritik_22_/" rel="nofollow">
+<a href="https://www.instagram.com/_janmejay_367/" rel="nofollow">
 <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" style="max-width:100%;">
 </a>
-<a href="https://twitter.com/HritikPhoolwan1" rel="nofollow">
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" style="max-width:100%;">
-</a>
-<a href="mailto:phoolwanihritik7877@gmail.com" rel="nofollow">
+<a href="mailto:janmejaypalei7008@gmail.com" rel="nofollow">
 <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" style="max-width:100%;">
 </a>
 <a href="https://www.youtube.com/channel/UC9Qe9JXhtaFafmtoR-Xov-A" rel="youtube">
@@ -41,13 +35,13 @@
 <li>&zwj; I’m looking to collaborate on kick ass products;</li>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Ask me about anything, I am happy to help;</li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"></g-emoji> Fact: Anything is possible;</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> How to reach me: <a href="mailto:phoolwanihritik7877@gmail.com.com">phoolwanihritik7877@gmail.com</a>;</li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> How to reach me: <a href="mailto:janmejaypalei7008@gmail.com">janmejaypalei7008@gmail.com</a>;</li>
 </ul>
 <h1><b>My GitHub Stats</b></h1>
 
-<p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hritik-HP&theme=radical"> </p>
-<p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=Hritik-HP&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik-HP&theme=radical" weidth = "50%" height="195px"> </p>
+<p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=janmejay-palei&theme=radical"> </p>
+<p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=janmejay-palei&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmejay-palei&theme=radical" weidth = "50%" height="195px"> </p>
 
 
 <!--[![Janmejay's github stats](https://github-readme-
