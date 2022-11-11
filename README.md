@@ -50,8 +50,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik-HP&theme=radical" weidth = "50%" height="195px"> </p>
 
 
-<!--[![Hritik's github stats](https://github-readme-
-stats.vercel.app/api?//username=Hritik-HP&show_icons=true&theme=graywhite)](https://github.com/Hritik-HP/Hritik-HP)-->
+<!--[![Janmejay's github stats](https://github-readme-
+stats.vercel.app/api?//username=Hritik-HP&show_icons=true&theme=graywhite)](https://github.com/janmejay-palei
+/janmejay-palei
+)-->
 
 
 
