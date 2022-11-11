@@ -48,14 +48,6 @@
 stats.vercel.app/api?//username=Hritik-HP&show_icons=true&theme=graywhite)](https://github.com/janmejay-palei
 /janmejay-palei
 )-->
-
-
-
-
-
-
-
-
 </body>
 
 <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
